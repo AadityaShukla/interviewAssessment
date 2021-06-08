@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="47fa0eab-a44c-4b9f-99f8-24992dc907b5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tYCKp4p3zkVSERQW98LSM6kSBm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RunManager" selected="Python.pavement">
+    <configuration name="Test_01_basic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test_suite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test_01_basic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="browserstack_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test_suite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/browserstack_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pavement" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test_suite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/behave-browserstack" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/behave-browserstack/pavement.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pavement" />
+        <item itemvalue="Python.Test_01_basic" />
+        <item itemvalue="Python.browserstack_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47fa0eab-a44c-4b9f-99f8-24992dc907b5" name="Default Changelist" comment="" />
+      <created>1622936577130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622936577130</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.feature" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="394" y="237" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1623040341389">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="394" y="237" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1368.872@0.0.1368.872" timestamp="1623040341389" />
+    <state x="391" y="94" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1623039451079">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="391" y="94" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1280.680/1280.0.1680.1010@0.0.1280.680" timestamp="1623039451079" />
+    <state x="367" y="81" key="FileChooserDialogImpl" timestamp="1623039519863">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="367" y="81" key="FileChooserDialogImpl/0.0.1280.680/1280.0.1680.1010@0.0.1280.680" timestamp="1623039519863" />
+    <state width="1325" height="226" key="GridCell.Tab.0.bottom" timestamp="1623078032218">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1235" height="226" key="GridCell.Tab.0.bottom/0.0.1278.591@0.0.1278.591" timestamp="1623034897121" />
+    <state width="1235" height="226" key="GridCell.Tab.0.bottom/0.0.1280.680/1280.0.1680.1010@0.0.1280.680" timestamp="1623039090591" />
+    <state width="1325" height="226" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1623078032218" />
+    <state width="1325" height="226" key="GridCell.Tab.0.center" timestamp="1623078032217">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1235" height="226" key="GridCell.Tab.0.center/0.0.1278.591@0.0.1278.591" timestamp="1623034897121" />
+    <state width="1235" height="226" key="GridCell.Tab.0.center/0.0.1280.680/1280.0.1680.1010@0.0.1280.680" timestamp="1623039090591" />
+    <state width="1325" height="226" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1623078032217" />
+    <state width="1325" height="226" key="GridCell.Tab.0.left" timestamp="1623078032217">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1235" height="226" key="GridCell.Tab.0.left/0.0.1278.591@0.0.1278.591" timestamp="1623034897121" />
+    <state width="1235" height="226" key="GridCell.Tab.0.left/0.0.1280.680/1280.0.1680.1010@0.0.1280.680" timestamp="1623039090591" />
+    <state width="1325" height="226" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1623078032217" />
+    <state width="1325" height="226" key="GridCell.Tab.0.right" timestamp="1623078032218">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1235" height="226" key="GridCell.Tab.0.right/0.0.1278.591@0.0.1278.591" timestamp="1623034897121" />
+    <state width="1235" height="226" key="GridCell.Tab.0.right/0.0.1280.680/1280.0.1680.1010@0.0.1280.680" timestamp="1623039090591" />
+    <state width="1325" height="226" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1623078032218" />
+    <state x="151" y="0" key="SettingsEditor" timestamp="1623041463531">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="141" y="0" key="SettingsEditor/0.0.1280.680/1280.0.1680.1010@0.0.1280.680" timestamp="1623039544269" />
+    <state x="151" y="0" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1623041463531" />
+    <state x="365" y="231" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1623039480647">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="365" y="231" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680/1280.0.1680.1010@0.0.1280.680" timestamp="1623039480647" />
+    <state x="391" y="35" width="585" height="801" key="find.popup" timestamp="1623049950866">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="391" y="35" width="585" height="801" key="find.popup/0.0.1368.872@0.0.1368.872" timestamp="1623049950866" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/behave-browserstack/pavement.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

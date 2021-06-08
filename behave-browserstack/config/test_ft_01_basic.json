@@ -1,0 +1,18 @@
+{
+  "user": "aadityashukla_6IwWOH",
+  "key": "fzTzocq4SaiAmmtcm5t8",
+
+  "capabilities": {
+    "build": "behave-browserstack",
+    "name": "parallel_test",
+    "browserstack.debug": true
+  },
+
+  "environments": [{
+    "browser": "chrome"
+  },{
+    "browser": "firefox"
+  },{
+    "browser": "edge"
+  }]
+}
